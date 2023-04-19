@@ -1,0 +1,24 @@
+.banner {
+  text-align: center;
+  background-color: rgba(17, 17, 17, 0.3);
+  width: 100% !important;
+  position: relative;
+  color: #aaa;
+}
+.banner .bannerImage {
+  height: 280px;
+}
+.banner .caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.banner .text {
+  font-weight: 400;
+  letter-spacing: 1px !important;
+  opacity: 0.5;
+}
+.banner .browse {
+  background-color: none;
+}/*# sourceMappingURL=Home.module.css.map */

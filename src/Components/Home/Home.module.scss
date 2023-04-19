@@ -1,0 +1,66 @@
+$textColor: #aaa;
+
+.banner {
+  text-align: center;
+  background-color: rgba($color: #111, $alpha: 0.3);
+  width: 100% !important;
+  position: relative;
+  color: $textColor;
+
+  .bannerImage {
+    height: 280px;
+  }
+
+  .caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+
+  .text {
+    font-weight: 400;
+    letter-spacing: 1px !important;
+    opacity: 0.5;
+  }
+
+  .browse {
+    background-color: none;
+  }
+}
+
+.caption {
+  background-color: #32383e;
+  color: #aaa;
+
+  .title {
+    font-size: 23px !important;
+    font-weight: bold;
+  }
+}
+
+.foot {
+  display: flex;
+  align-items: center;
+  color: #6f848f;
+
+  .genre {
+    background-color: #6f848f;
+    padding: 0 5px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #282b30;
+    margin-inline: 10px;
+  }
+}
+
+.moreGames {
+  transition: all 0.5s ease !important;
+
+  &:hover {
+    background-color: #aaa !important;
+    color: #282b30 !important;
+  }
+}

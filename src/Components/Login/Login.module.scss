@@ -1,0 +1,25 @@
+$submitColor: #3A3F44;
+$logColor: #32383E;
+
+button {
+    background-color: $submitColor !important;
+    border: 1px solid rgba($color: #000000, $alpha: 0.3) !important;
+}
+
+.logo {
+    width: 120px !important;
+    padding: 7px 0;
+}
+
+.logInfo {
+    background-color: $logColor;
+}
+
+form {
+    border-bottom:  1px solid rgba($color: #dee2e6, $alpha: 0.3) !important;;
+    padding-bottom: 20px;
+}
+
+input {
+    color: #fff !important;
+}

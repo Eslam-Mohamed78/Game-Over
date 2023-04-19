@@ -1,0 +1,13 @@
+$shadow: rgba(145, 158, 171, 0.2) 0px 1px 0px 0px,
+  rgba(145, 158, 171, 0.14) 0px 4px 5px 0px,
+  rgba(145, 158, 171, 0.12) 0px 1px 10px 0px;
+
+nav {
+  // box-shadow: $shadow;
+}
+
+.logo {
+  font-family: "Great Vibes", "cursive";
+  font-size: 30px !important;
+  width: 80px;
+}

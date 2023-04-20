@@ -17,8 +17,5 @@ Live-Demo : http://eslam-mohamed.me/Game-Over/
 
 Github-Repo : https://github.com/Eslam-Mohamed78/Game-Over
 
-License
-GameOver is licensed under the MIT License. See the LICENSE file for more details.
-
 Contact
 If you have any questions or feedback, please contact the GameOver development team at em7506386@gmail.com

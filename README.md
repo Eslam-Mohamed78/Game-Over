@@ -13,7 +13,7 @@ Click on a game to view its details page that includes (description - linkToPlay
 
 API : https://rapidapi.com/digiwalls/api/free-to-play-games-database/
 
-Live-Demo : http://eslam-mohamed.me/Game-Over/
+Live-Demo : https://eslam-mohamed78.github.io/Game-Over/
 
 Github-Repo : https://github.com/Eslam-Mohamed78/Game-Over
 
